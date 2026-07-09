@@ -1,0 +1,6 @@
+1. Unzip this package.
+2. Open the KIT-OS folder.
+3. Upload everything INSIDE KIT-OS to the root of the GitHub repo.
+4. Commit changes.
+5. Your GitHub repo should now show app/, components/, lib/, database/, docs/, public/, and .github/ folders.
+6. Deploy with Vercel for the real application.
